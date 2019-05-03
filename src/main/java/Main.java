@@ -9,5 +9,6 @@ public class Main {
         System.out.println("增加第三行输出");
         System.out.println("66666");
         System.out.println("99999");
+        System.out.println("10");
     }
 }
